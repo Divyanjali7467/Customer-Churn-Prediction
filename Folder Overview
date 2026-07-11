@@ -1,0 +1,10 @@
+Customer-Churn-Prediction/
+│
+├── app.py
+├── customer_churn_model.pkl
+├── requirements.txt
+├── README.md
+├── .gitignore
+└── screenshots/
+      ├── home.png
+      └── prediction.png
