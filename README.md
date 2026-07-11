@@ -117,13 +117,9 @@ The application allows users to:
 
 ## Screenshots
 
-### Home Page
-
-![Home](screenshots/home.png)
-
 ### Prediction Result
 
-![Prediction](screenshots/prediction.png)
+![Prediction](https://github.com/Divyanjali7467/Customer-Churn-Prediction/blob/main/Screenshot%202026-07-12%20011203.png)
 
 ## 👩‍💻 Author
 
