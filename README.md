@@ -115,6 +115,16 @@ The application allows users to:
 
 ---
 
+## Screenshots
+
+### Home Page
+
+![Home](screenshots/home.png)
+
+### Prediction Result
+
+![Prediction](screenshots/prediction.png)
+
 ## 👩‍💻 Author
 
 Divyanjali Jaiswal
