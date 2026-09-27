@@ -1,5 +1,7 @@
-# Customer-Churn-Prediction
+
 # Customer Churn Prediction using Machine Learning
+The application is built using Machine Learning and deployed with Streamlit, allowing users to enter customer details and receive real-time churn predictions.
+
 
 ## 📌 Project Overview
 
